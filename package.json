@@ -1,0 +1,19 @@
+{
+  "name": "mongochat",
+  "version": "1.0.0",
+  "description": "Chat Application for learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/chachawambura/chatappmongodb"
+  },
+  "author": "chacha",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.4.1",
+    "socket.io": "^2.3.0"
+  }
+}
